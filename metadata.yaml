@@ -1,0 +1,44 @@
+_repo: The-History-of-a-CrimeThe-Testimony-of-an-Eye-Witness_10381
+_version: 0.0.1
+alternative_title: Histoire d'un crime. English
+contributor:
+  translators:
+  - agent_name: Joyce, T. H.
+    gutenberg_agent_id: '40605'
+    url: http://www.gutenberg.org/2009/agents/40605
+  - agent_name: Locker, Arthur, 1828-1893
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '40606'
+    url: http://www.gutenberg.org/2009/agents/40606
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: "The History of a Crime (French: Histoire d'un crime, 1877) is an essay\
+  \ by Victor Hugo about Napoleon III's takeover of France.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10381'
+  wikidata: Q3136618
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1900'
+- !lcc 'DC'
+- GITenberg
+title: 'The History of a Crime
+
+  The Testimony of an Eye-Witness'
+url: http://www.gutenberg.org/ebooks/10381
+wikipedia:
+- https://fr.wikipedia.org/wiki/Histoire_d%27un_crime
+- https://en.wikipedia.org/wiki/The_History_of_a_Crime
