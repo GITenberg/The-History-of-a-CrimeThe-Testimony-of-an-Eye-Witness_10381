@@ -1,5 +1,5 @@
 _repo: The-History-of-a-CrimeThe-Testimony-of-an-Eye-Witness_10381
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Histoire d'un crime. English
 contributor:
   translators:
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1893
     gutenberg_agent_id: '40606'
     url: http://www.gutenberg.org/2009/agents/40606
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hugo, Victor
@@ -22,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: "The History of a Crime (French: Histoire d'un crime, 1877) is an essay\
   \ by Victor Hugo about Napoleon III's takeover of France.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10381#The-History-of-a-CrimeThe-Testimony-of-an-Eye-Witness
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
